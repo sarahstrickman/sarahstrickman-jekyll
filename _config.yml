@@ -26,12 +26,13 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author-profile-img: portrait-scowl.jpg
+author_logo: portrait-scowl.jpg
+author: Sarah Strickman
+author_bio: Hi, I'm Sarah.  I do things sometimes.
+author_email: "sarahstrickman@gmail.com"
+author_location: New York
+author_website_url: "https://sarahstrickman.com"
 typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
 
 # Experiences
@@ -42,6 +43,7 @@ author_work_experiences:
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
+
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
