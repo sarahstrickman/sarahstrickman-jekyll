@@ -5,6 +5,7 @@ bio: "Observer of things"
 site: https://sarahstrickman.com
 avatar: sarahstrickman.jpg
 email: sarahstrickman@gmail.com
+visibility: true
 social:
     - title: "github"
       url: "https://github.com/sarahstrickman"

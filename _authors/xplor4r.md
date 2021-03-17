@@ -5,6 +5,7 @@ bio: "Full Stack Web Developer, based in Bangalore, India"
 site: https://sujaykundu.com
 avatar: xplor4r.png
 email: mail@sujaykundu.com
+visibility: false
 social:
     - title: "github"
       url: "https://github.com/sujaykundu777"

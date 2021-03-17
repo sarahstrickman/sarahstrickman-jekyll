@@ -1,7 +1,12 @@
 <ul>
     {% for author in site.authors %}
-        <li>
-            <a href="/blog/authors/{{ author.username }}">{{ author.name }}</a>
-        </li>
+        {% if author.visibility %}
+            <li>
+                <a href="/blog/authors/{{ author.username }}">{{ author.name }}</a>
+            </li>
+        {% else %}
+
+        {% endif %}
+
     {% endfor %}
  </ul>
