@@ -1,8 +1,8 @@
 ---
 layout: post
-author: johndoe
-title: Netlify CMS created this Article
-date: 2020-05-23T09:52:20.613Z
+author: sarahstrickman
+title: Test Introduction
+date: '2020-10-25 1:35:23 +0530'
 thumbnail: /assets/img/posts/hello.jpg
 category: jekyll
 summary: Demo Content using Netlify CMS

@@ -4,7 +4,7 @@ johndoe:
    username: johndoe
    site: http://johndoe.com
    avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
+   bio: "Hi I am John, a Web Developer and Designer."
    email: mail@johndoe.com
    social:
       - title: "github"
@@ -47,3 +47,15 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
+sarahstrickman:
+  name: Sarah Strickman
+  username: sarahstrickman
+  bio: "Observer of things"
+  site: https://sarahstrickman.com
+  avatar: sarahstrickman.png
+  email: sarahstrickman@gmail.com
+  social:
+    - title: "github"
+      url: "https://github.com/sarahstrickman"
+    - title: "linkedin"
+      url: "https://www.linkedin.com/in/sarahstrickman"
