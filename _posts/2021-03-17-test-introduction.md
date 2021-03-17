@@ -13,6 +13,14 @@ This is a Test article.  Just writing this to see if things work.
 2. My name is
 3. Sarah
 
+---
+# To Do
+
+- Resume stuff (courses, TRANSCRIPT, work experience)
+- remove cart from header
+
+---
+
 ### Ultra Beginner's Guide to Using the Developr Jekyll Template
 
 Adding a new Author
