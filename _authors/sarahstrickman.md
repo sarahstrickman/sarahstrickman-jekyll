@@ -7,7 +7,7 @@ avatar: sarahstrickman.jpg
 email: sarahstrickman@gmail.com
 social:
     - title: "github"
-    url: "https://github.com/sarahstrickman"
+      url: "https://github.com/sarahstrickman"
     - title: "linkedin"
-    url: "https://www.linkedin.com/in/sarahstrickman"
+      url: "https://www.linkedin.com/in/sarahstrickman"
 ---
