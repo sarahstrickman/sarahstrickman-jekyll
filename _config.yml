@@ -48,7 +48,11 @@ author_work_experiences: # TODO
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Software Engineering Intern
-              description: Wrote an automated rule-based troubleshooting tool
+              description: "Participated in the full lifecycle of the tool by: \n
+                            \t - surveying customers and analyzing logs using MQL and KQL \n
+                            \t - designing a modular and easily extendible tool utilizing Singleton and Dependency Injection patterns \n
+                            \t - writing and unit testing the tool C# and APS.NET Core"
+
               visibility: true
 
 # Education
