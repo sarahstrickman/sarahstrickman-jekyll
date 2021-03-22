@@ -50,8 +50,11 @@ author_work_experiences: # TODO
               designation: Software Engineering Intern
               description: >-
                 Participated in the full lifecycle of the tool by:
+
                   - surveying customers and analyzing logs using MQL and KQL
+
                   - designing a modular and easily extendable tool utilizing Singleton and Dependency Injection patterns
+
                   - writing and unit testing the tool C# and APS.NET Core
 
               visibility: true
