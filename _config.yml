@@ -43,12 +43,10 @@ author_work_experiences:
                 designation: Student Lab Instructor
                 description: >-
                   - Works with professors in brainstorming problem-solving sessions once a week.<br>
-                  - Leads students in problem solving sessions and guides them to understanding introductory
-                    computing concepts.<br>
+                  - Leads students in problem solving sessions and guides them to understanding introductory computing concepts.<br>
                   - Mentors for 2 hours every week to help students understand concepts and complete assignments.<br>
                   - Grades and provides feedback on weekly lab submissions from students.<br>
-                  - Courses taught: Computer Science 1 (CSCI-141), Computer Science for AP/Transfers (CSCI-242),
-                    Computer Science 2 (CSCI-142)
+                  - Courses taught: Computer Science 1 (CSCI-141), Computer Science for AP/Transfers (CSCI-242), Computer Science 2 (CSCI-142)
 
                 visibility: true
 
@@ -68,14 +66,10 @@ author_work_experiences:
                 company_url: https://microsoft.com
                 designation: Explore Intern
                 description: >-
-                  - Worked within the Microsoft Ads Editor (MAE) team to develop a feature that better allowed users to
-                    take advantage of newly released features.<br>
-                  - Wrote a functional requirements spec detailing how the feature should appear to the user, how it
-                    would be integrated within MAE, and how developers would use the feature.<br>
-                  - Used React, CSS, and C# to handle communication from the client and server sides of the
-                    application, as well as to write how the feature would appear in MAE.<br>
-                  - Wrote extensive tests for the feature to ensure that its integration in MAE is seamless.
-                    Maintained a code coverage of over 93% for every part of the feature.<br>
+                  - Worked within the Microsoft Ads Editor (MAE) team to develop a feature that better allowed users to take advantage of newly released features.<br>
+                  - Wrote a functional requirements spec detailing how the feature should appear to the user, how it would be integrated within MAE, and how developers would use the feature.<br>
+                  - Used React, CSS, and C# to handle communication from the client and server sides of the application, as well as to write how the feature would appear in MAE.<br>
+                  - Wrote extensive tests for the feature to ensure that its integration in MAE is seamless. Maintained a code coverage of over 93% for every part of the feature.<br>
                 visibility: true
 
 # Education
