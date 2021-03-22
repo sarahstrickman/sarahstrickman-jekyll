@@ -49,9 +49,8 @@ author_work_experiences: # TODO
               company_url: https://microsoft.com
               designation: Software Engineering Intern
               description: >-
-                Participated in the full lifecycle of the tool by:
-
-                  - surveying customers and analyzing logs using MQL and KQL
+                Participated in the full lifecycle of the tool by:\n
+                  - surveying customers and analyzing logs using MQL and KQL\\n
 
                   - designing a modular and easily extendable tool utilizing Singleton and Dependency Injection patterns
 
