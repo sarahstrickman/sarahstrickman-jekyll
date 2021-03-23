@@ -101,9 +101,7 @@ author_education_details:
                 college_major: Computer Science and Software Engineering
                 college_degree: Bachelor of Science
                 transcript: RIT-unofficial-transcript.pdf
-                courses:
-                  - name: abcxyz
-                    description: sample text
+                college_info: rit-info.md
                 visibility: true
 
               - college_logo: bths-logo.png
@@ -111,16 +109,7 @@ author_education_details:
                 college_url: https://bths.edu
                 college_major: Media Communications
                 college_degree: Career and Technical Education (CTE) Diploma
-                courses:
-                  - name: Design and Drafting for Production (DDP)
-                    description: >-
-                      Studied product design, mechanical art/drafting, and modeling of small objects and large
-                      structures using Project Lead the Way (PLTW) course. Used Autodesk Inventor and
-                      received Autodesk Inventor certification.
-                  - name: Digital Electronics (DE)
-                    description: >-
-                      Learned about logics and electronics though Project Lead the Way's course. Gained experience
-                      with basic boolean algebra and logic, soldering, and simulated breadboards using MultiSim.
+                college_info: bths-info.md
                 visibility: true
 
 # Projects
