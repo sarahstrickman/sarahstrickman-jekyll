@@ -42,11 +42,13 @@ author_work_experiences:
               company_url: https://www.rit.edu/computing/department-computer-science
               designation: Student Lab Instructor
               description: >-
-                - Works with professors in brainstorming problem-solving sessions once a week.<br>
-                - Leads students in problem solving sessions and guides them to understanding introductory computing concepts.<br>
-                - Mentors for 2 hours every week to help students understand concepts and complete assignments.<br>
-                - Grades and provides feedback on weekly lab submissions from students.<br>
-                - Courses taught: Computer Science 1 (CSCI-141), Computer Science for AP/Transfers (CSCI-242), Computer Science 2 (CSCI-142)
+                <ul>
+                <li>Works with professors in brainstorming problem-solving sessions once a week.</li>
+                <li>Leads students in problem solving sessions and guides them to understanding introductory computing concepts.</li>
+                <li>Mentors for 2 hours every week to help students understand concepts and complete assignments.</li>
+                <li>Grades and provides feedback on weekly lab submissions from students.</li>
+                <li>Courses taught: Computer Science 1 (CSCI-141), Computer Science for AP/Transfers (CSCI-242), Computer Science 2 (CSCI-142)</li>
+                </ul>
               visibility: true
 
             - company_name: Microsoft
@@ -54,11 +56,13 @@ author_work_experiences:
               company_url: https://microsoft.com
               designation: Software Engineering Intern
               description: >-
-                Wrote a rule based troubleshooting tool for the Bing Platform Microservices team.<br>
-                Participated in the full lifecycle of the tool by:<br>
-                - surveying customers and analyzing logs using MQL and KQL<br>
-                - designing a modular and easily extendable tool utilizing Singleton and Dependency Injection patterns<br>
-                - writing and unit testing the tool C# and APS.NET Core<br>
+                Wrote a rule based troubleshooting tool for the Bing Platform Microservices team.<br><br>
+                Participated in the full lifecycle of the tool by:<br><br>
+                <ul>
+                <li>surveying customers and analyzing logs using MQL and KQL</li>
+                <li>designing a modular and easily extendable tool utilizing Singleton and Dependency Injection patterns</li>
+                <li>writing and unit testing the tool C# and APS.NET Core</li>
+                </ul>
               visibility: true
 
             - company_name: Microsoft
@@ -66,10 +70,12 @@ author_work_experiences:
               company_url: https://microsoft.com
               designation: Explore Intern
               description: >-
-                - Worked within the Microsoft Ads Editor (MAE) team to develop a feature that better allowed users to take advantage of newly released features.<br>
-                - Wrote a functional requirements spec detailing how the feature should appear to the user, how it would be integrated within MAE, and how developers would use the feature.<br>
-                - Used React, CSS, and C# to handle communication from the client and server sides of the application, as well as to write how the feature would appear in MAE.<br>
-                - Wrote extensive tests for the feature to ensure that its integration in MAE is seamless. Maintained a code coverage of over 93% for every part of the feature.<br>
+                <ul>
+                <li>Worked within the Microsoft Ads Editor (MAE) team to develop a feature that better allowed users to take advantage of newly released features.</li>
+                <li>Wrote a functional requirements spec detailing how the feature should appear to the user, how it would be integrated within MAE, and how developers would use the feature.</li>
+                <li>Used React, CSS, and C# to handle communication from the client and server sides of the application, as well as to write how the feature would appear in MAE.</li>
+                <li>Wrote extensive tests for the feature to ensure that its integration in MAE is seamless. Maintained a code coverage of over 93% for every part of the feature.</li>
+                </ul>
               visibility: true
 
 # Education
