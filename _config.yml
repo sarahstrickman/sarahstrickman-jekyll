@@ -56,12 +56,14 @@ author_work_experiences:
               company_url: https://microsoft.com
               designation: Software Engineering Intern
               description: >-
-                Wrote a rule based troubleshooting tool for the Bing Platform Microservices team.<br><br>
-                Participated in the full lifecycle of the tool by:<br><br>
+                <ul>
+                <li>Wrote a rule based troubleshooting tool for the Bing Platform Microservices team.</li>
+                <li>Participated in the full lifecycle of the tool by:</li>
                 <ul>
                 <li>surveying customers and analyzing logs using MQL and KQL</li>
                 <li>designing a modular and easily extendable tool utilizing Singleton and Dependency Injection patterns</li>
                 <li>writing and unit testing the tool C# and APS.NET Core</li>
+                </ul>
                 </ul>
               visibility: true
 
