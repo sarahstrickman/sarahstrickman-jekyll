@@ -181,15 +181,17 @@ layout: default
           <h6 class="experience-info"><a href="{{detail.college_url}}">{{ detail.college_name}}</a></h6>
           <h6 class="experience-info">{{detail.college_degree}}</h6>
 
-          {% if detail.transcript?? %}
+          {% if detail.transcript %}
           <p><a href="{{site.url}}{{site.baseurl}}/assets/documents/{{ detail.transcript }}">Transcript</a></p>
           {% endif %}
 
-          {% if detail.courses?? %}
+          {% if detail.courses %}
           <p>Coursework</p>
+            <ul>
             {% for course in detail.courses %}
-            <p>{{ course.name}} - {{ course.description }}</p>
+            <li>{{ course.name}} - {{ course.description }}</li>
             {% endfor %}
+            </ul>
           {% endif %}
 
         </div>
