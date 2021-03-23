@@ -181,11 +181,11 @@ layout: default
           <h6 class="experience-info">{{detail.college_degree}}</h6>
 
           {% if detail.transcript %}
-          <p><a href="{{site.url}}{{site.baseurl}}/assets/documents/{{ detail.transcript }}">Transcript</a></p>
+          <h6><a href="{{site.url}}{{site.baseurl}}/assets/documents/{{ detail.transcript }}">Transcript</a></h6>
           {% endif %}
 
           {% if detail.college_info %}
-          <p>Coursework: coming soon to a webpage near you</p>
+          <h6>Coursework: coming soon to a webpage near you</h6>
 <!--          <p><a href={{site.url}}{{site.baseurl}}/assets/documents/{{ detail.transcript }}> Coursework</a></p>-->
 <!--          <a href="{{ post.url | prepend: site.baseurl }}" data-disqus-identifier="{{ post.url }}" class="btn btn-dark btn-lg">Read</a>-->
 <!--            <ul>-->
